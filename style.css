@@ -15,7 +15,7 @@ body{
     float: left;
     border-radius: 2px;
     border-right: 2px solid black;
-    background: url(./pics/container2_background.jpg) no-repeat;
+    background: url(./container2_background.jpg) no-repeat;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -70,7 +70,7 @@ li{
     height: 98vh;
     width: 1152px;
     justify-content: center;
-    background-image: url('./pics/ii.jpg'); 
+    background-image: url('./ii.jpg'); 
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
